@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<AuthenticationData>
+		<ValidLogin>raseg77087@pidouno.com</ValidLogin>
+		<ValidPassword>raseg77087@pidouno.com</ValidPassword>
+		<InvalidLogin>invalid</InvalidLogin>
+		<InvalidPassword>invalid</InvalidPassword>
+	</AuthenticationData>
+	<SiteData>
+		<BaseUrl>https://tasks.toodledo.com</BaseUrl>
+	</SiteData>
+</Settings>
